@@ -2,7 +2,7 @@
 
 ## Introduction and dataset
 - This data is the collection of two datasets, one of which is from a resort hotel and the other which is from a city hotel. The datasets have 40,060 observations and 79,330 obeservations respectively with both sharing 31 variables. The observations time range from July 1st 2015 until August 31st 2017. The data was orginally collected from "Hotel Booking Demand Datasets", written by Nuno Antonio, Ana Almeida, and Luis Nune for Data in Brief, Volume 22, February 2019. The data was consolidated from bookings, change logs, meal, transaction, and customer profiles.
-- Various machine learning models deployed for classification and regression problems (Naive Bayes, Random Forest, KNN, Decision Tree, Support Vector, Logistic Regression)
+- Various machine learning models deployed for classification and regression problems (Naive Bayes, Random Forest, KNN, Decision Tree, Support Vector, Logistic Regression, Association Rule Mining)
 
 
 ## EDA
